@@ -1,5 +1,0 @@
-# Ignoring Node modules
-node_modules/
-
-# Ignoring production build
-build/

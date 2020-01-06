@@ -1,0 +1,10 @@
+.new_loc {
+    bottom: unset !important;
+    top: 80px;
+    left: 44% !important;
+    background-color: white !important;
+    color: black !important;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: bold;
+}

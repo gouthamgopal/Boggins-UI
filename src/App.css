@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    padding-top: 5%;
+}
+
+.original_image {
+    margin-right: 30px;
+}
+
+.original_image, .superRes_image {
+    width: 50%;
+}
+
+.NavBar {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+li {
+    float: left;
+    font-size: 18px;
+}
+
+div.heading {
+    position: absolute;
+    padding-top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #fff;
+}
+
+li.navs > a {
+    padding-top: 19px;
+}

@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.header {
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: 'Roboto' !important;
+}
+
+.content {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto' !important;
+}
+
+footer {
+    /* position: absolute; */
+    margin-top: 200px;
+    /* display: flex; */
+    justify-content: center;
+    text-align: center;
+    bottom: 20%;
+    right: 35%;
+    /* bottom: 10px; */
+    
+}
+
+footer > div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-left: 10px;
+    /* margin-left: 5%; */
+}
+
+.footer > div {
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 10px;
+    /* font-style: italic; */
+}
